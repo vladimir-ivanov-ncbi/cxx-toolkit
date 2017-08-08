@@ -1191,9 +1191,9 @@ pre.highlight code {
 }
 
 code.highlighter-rouge {
-  background-color: #eee;
+  background-color: #f3f3f3;
   padding: 3px;
-  border: 1px solid #ddd;
+  border: 1px solid #dedede;
   border-radius: 3px;
 }
 
